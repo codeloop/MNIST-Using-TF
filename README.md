@@ -1,2 +1,2 @@
-# HelloWorld
-##Repo To Contain SampleCodes
+# MNIST Classifier Using TF
+##Getting Started With TF
